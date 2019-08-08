@@ -1,2 +1,3 @@
-# pl-standard-lib
-Strandard Librairie for PL programming
+# premierlangage-lib
+
+This repository contains common functions and classes used when writing PL.
